@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: 'Bookstore – ReactJS Frontend Project',
     description: 'Bookstore is a simple e-commerce frontend project built with ReactJS.',
-    image: '/public/projects/bookstore.jpg',
+    image: '/projects/bookstore.jpg',
     tag: ['ReactJS', 'JavaScript', 'CSS', 'HTML', 'MySQL'],
     demoUrl: '#',
     githubUrl: 'https://github.com/Tuonggggg/Bookstore'
@@ -14,7 +14,7 @@ const projects = [
     id: 3,
     title: 'Trello Clone – MERN Stack Project',
     description: 'Trello Clone is a web application built with ReactJS, Material UI, DnD Kit, and MongoDB.',
-    image: '/public/projects/trello.jpg',
+    image: '/projects/trello.jpg',
     tag: ['ReactJS', 'Material UI', 'DnD Kit', 'MongoDB', 'REST API'],
     demoUrl: '#',
     githubUrl: 'https://github.com/Tuonggggg/Trello-Clone'
@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     title: 'Dien May Xanh Clone – MERN Stack Project',
     description: 'Dien May Xanh Clone is an e-commerce web application built with ReactJS, Ant Design, Node.js, MongoDB, and CSS.',
-    image: '/public/projects/dmx.jpg',
+    image: '/projects/dmx.jpg',
     tag: ['ReactJS', 'Ant Design', 'Node.js', 'MongoDB', 'CSS', 'REST API'],
     demoUrl: '#',
     githubUrl: '#'
@@ -32,7 +32,7 @@ const projects = [
     id: 4,
     title: 'Shopee Clone – HTML & CSS Project',
     description: 'Shopee Clone is a static e-commerce frontend project built with HTML and CSS.',
-    image: '/public/projects/shopee.jpg',
+    image: '/projects/shopee.jpg',
     tag: ['HTML', 'CSS'],
     demoUrl: '#',
     githubUrl: 'https://github.com/Tuonggggg/Shopee-Blue'
@@ -41,13 +41,13 @@ const projects = [
     id: 5,
     title: 'Admin Dashboard – Spring Boot Maven Project',
     description: 'Admin Dashboard is a web application built with Spring Boot and Maven for managing users, products, and system data.',
-    image: '/public/projects/admin.jpg',
+    image: '/projects/admin.jpg',
     tag: ['Spring Boot', 'Java', 'Maven', 'PostgreSQL'],
     demoUrl: '#',
     githubUrl: 'https://github.com/Tuonggggg/Springboot-web'
   }
-
 ]
+
 
 export const ProjectsSection = () => {
   return (
